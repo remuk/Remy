@@ -1,5 +1,0 @@
-rootProject.name = 'Remy'
-include 'backbone'
-
-include ':remy'
-include ':frontbone'
